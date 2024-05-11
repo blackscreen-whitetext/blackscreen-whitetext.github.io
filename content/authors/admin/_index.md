@@ -106,6 +106,8 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/blackscreen-whitetext/
+    display:
+      header: true
   # - icon: linkedin
   #   icon_pack: fab
   #   link: https://www.linkedin.com/in/balaji-ram-b45061257/
