@@ -74,8 +74,6 @@ features:
     content_dir: content
     branch: main
   avatar:
-    image:
-        filename: content/authors/admin/avatar_.jpg
     gravatar: false
     shape: circle
   comment:
