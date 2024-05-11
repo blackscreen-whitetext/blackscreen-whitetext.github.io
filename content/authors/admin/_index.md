@@ -103,18 +103,18 @@ social:
   # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   #   icon_pack: fas
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/blackscreen-whitetext/
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/balaji-ram-b45061257/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: https://github.com/blackscreen-whitetext/Resume/blob/main/Balaji_cv.pdf
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/blackscreen-whitetext/
+  # - icon: linkedin
+  #   icon_pack: fab
+  #   link: https://www.linkedin.com/in/balaji-ram-b45061257/
+  # # Link to a PDF of your resume/CV.
+  # # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
+  # # and uncomment the lines below.
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: https://github.com/blackscreen-whitetext/Resume/blob/main/Balaji_cv.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
