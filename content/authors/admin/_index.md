@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Welcome To My Site
+title: Balaji R
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -11,7 +11,7 @@ last_name: Ram
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 😊
 
 # Is this the primary user of the site?
 superuser: true
