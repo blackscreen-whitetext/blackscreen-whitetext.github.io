@@ -31,6 +31,7 @@ bio: My research interests include quantitative pricing, generative AI, operatio
 interests:
   - Artificial Intelligence
   - Financial Market Behavior Modelling And Asset Pricing
+  - Operations Research
   - Quantum Technologies
 
 # Education to show in About widget
