@@ -63,6 +63,7 @@ skills:
         icon: chart-line
         icon_pack: fas
   - name: Database 
+    items:
       - name: SQL
         description: ''
         percent: 40
