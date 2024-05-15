@@ -70,6 +70,7 @@ skills:
         icon: database
         icon_pack: fas
   - name: Statistics
+    items:
       - name: R
         description: ''
         percent: 40
