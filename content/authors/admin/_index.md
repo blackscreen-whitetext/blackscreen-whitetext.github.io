@@ -57,16 +57,19 @@ skills:
         #percent: 1
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: C++
         description: ''
         percent: 100
         icon: chart-line
         icon_pack: fas
+      
       - name: SQL
         description: ''
         percent: 40
         icon: database
+        icon: chart-line
         icon_pack: fas
+      - name:
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
