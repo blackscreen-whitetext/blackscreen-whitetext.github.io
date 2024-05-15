@@ -64,6 +64,8 @@ skills:
         icon_pack: fas
       
       - name: SQL
+        items:
+          - name: Hola
         description: ''
         percent: 40
         icon: database
