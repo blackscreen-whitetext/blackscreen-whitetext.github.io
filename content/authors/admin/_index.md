@@ -50,11 +50,11 @@ education:
 #Skills
 For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: Languages
     items:
       - name: Python
         description: ''
-        percent: 80
+        #percent: 1
         icon: python
         icon_pack: fab
       - name: Data Science
