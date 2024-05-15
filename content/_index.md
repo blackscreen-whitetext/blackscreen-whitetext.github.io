@@ -156,7 +156,7 @@ sections:
         
         
     design:
-      columns: '2'
+      columns: '1'
   # - block: collection
   #   id: posts
   #   content:
