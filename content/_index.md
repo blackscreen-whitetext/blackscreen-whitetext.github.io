@@ -49,7 +49,7 @@ sections:
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
     design:
-      columns: '2'
+      columns: '4'
   # - block: experience
   #   content:
   #     title: Experience
@@ -86,77 +86,77 @@ sections:
         
   #   design:
   #     columns: '2'
-  # - block: accomplishments
-  #   content:
-  #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-  #     title: 'Accomplish&shy;ments'
-  #     subtitle:
-  #     # Date format: https://docs.hugoblox.com/customization/#date-format
-  #     date_format: Jan 2006
-  #     # Accomplishments.
-  #     #   Add/remove as many `item` blocks below as you like.
-  #     #   `title`, `organization`, and `date_start` are the required parameters.
-  #     #   Leave other parameters empty if not required.
-  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-  #     items:
-  #       - certificate_url: https://github.com/blackscreen-whitetext/Course-certs/blob/main/Generative_AI_With_LLMs_Andrew_NG/Balaji_LLMs.pdf
-  #         date_end: ''
-  #         date_start: ''
-  #         description: ''
-  #         icon: coursera
-  #         organization: Coursera
-  #         organization_url: 'https://www.coursera.org'
-  #         title: Generative AI With LLMs
-  #         url: https://www.coursera.org/learn/generative-ai-with-llms
-  #       - certificate_url: https://github.com/blackscreen-whitetext/Course-certs/blob/main/Natural_Language_Processing_DeepLearning/NLP_Specialization_Balaji.pdf
-  #         date_end: ''
-  #         date_start: ''
-  #         # description: Formulated informed blockchain models, hypotheses, and use cases.
-  #         description: ''
-  #         icon: coursera
-  #         organization: Coursera
-  #         organization_url: https://www.coursera.org
-  #         # icon: edx
-  #         # organization: edX
-  #         # organization_url: https://www.edx.org
-  #         title: 'NLP Specialization'
-  #         url: https://www.coursera.org/specializations/natural-language-processing
-  #       - certificate_url: https://github.com/blackscreen-whitetext/Course-certs/blob/main/Generative_Adversarial_Networks_DeepLearning_AI/Generative_Adversarial_Networks_Specialisation_Balaji.pdf
-  #         date_end: ''
-  #         date_start: ''
-  #         description: ''
-  #         icon: coursera
-  #         organization: Coursera
-  #         organization_url: https://www.coursera.org
-  #         title: 'Generative Adversarial Networks Specialization'
-  #         url: https://coursera.org/specializations/generative-adversarial-networks-gans
-  #       - certificate_url: https://github.com/blackscreen-whitetext/Course-certs/blob/main/Deep_Learning_AndrewNG/Deep_Learning_Specialisation_Balaji.pdf
-  #         # date_end: '2020-12-21'
-  #         # date_start: '2020-07-01'
-  #         date_end: ''
-  #         date_start: ''
-  #         description: ''
-  #         icon: coursera
-  #         organization: Coursera
-  #         organization_url: https://www.coursera.org
-  #         # icon: datacamp
-  #         # organization: DataCamp
-  #         # organization_url: https://www.datacamp.com
-  #         title: 'Deep Learning Specialization'
-  #         url: https://www.coursera.org/specializations/deep-learning
-  #       - certificate_url: https://github.com/blackscreen-whitetext/Course-certs/blob/main/Machine_Learning_AndrewNG/Machine_Learnning_Specialization_Balaji.pdf
-  #         description: ''
-  #         date_end: ''
-  #         date_start: ''
-  #         icon: coursera
-  #         organization: Coursera
-  #         organization_url: https://www.coursera.org
-  #         title: 'Machine Learning Specialization'
-  #         url: https://www.coursera.org/specializations/machine-learning-introduction
+  - block: accomplishments
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Accomplish&shy;ments'
+      subtitle:
+      # Date format: https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - certificate_url: https://github.com/blackscreen-whitetext/Course-certs/blob/main/Generative_AI_With_LLMs_Andrew_NG/Balaji_LLMs.pdf
+          date_end: ''
+          date_start: '2024-05-01'
+          description: ''
+          icon: coursera
+          organization: Coursera
+          organization_url: 'https://www.coursera.org'
+          title: Generative AI With LLMs
+          url: https://www.coursera.org/learn/generative-ai-with-llms
+        - certificate_url: https://github.com/blackscreen-whitetext/Course-certs/blob/main/Natural_Language_Processing_DeepLearning/NLP_Specialization_Balaji.pdf
+          date_end: ''
+          date_start: '2024-05-01'
+          # description: Formulated informed blockchain models, hypotheses, and use cases.
+          description: ''
+          icon: coursera
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          # icon: edx
+          # organization: edX
+          # organization_url: https://www.edx.org
+          title: 'NLP Specialization'
+          url: https://www.coursera.org/specializations/natural-language-processing
+        - certificate_url: https://github.com/blackscreen-whitetext/Course-certs/blob/main/Generative_Adversarial_Networks_DeepLearning_AI/Generative_Adversarial_Networks_Specialisation_Balaji.pdf
+          date_end: ''
+          date_start: '2024-05-01'
+          description: ''
+          icon: coursera
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: 'Generative Adversarial Networks Specialization'
+          url: https://coursera.org/specializations/generative-adversarial-networks-gans
+        - certificate_url: https://github.com/blackscreen-whitetext/Course-certs/blob/main/Deep_Learning_AndrewNG/Deep_Learning_Specialisation_Balaji.pdf
+          # date_end: '2020-12-21'
+          # date_start: '2020-07-01'
+          date_end: ''
+          date_start: '2024-05-01'
+          description: ''
+          icon: coursera
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          # icon: datacamp
+          # organization: DataCamp
+          # organization_url: https://www.datacamp.com
+          title: 'Deep Learning Specialization'
+          url: https://www.coursera.org/specializations/deep-learning
+        - certificate_url: https://github.com/blackscreen-whitetext/Course-certs/blob/main/Machine_Learning_AndrewNG/Machine_Learnning_Specialization_Balaji.pdf
+          description: ''
+          date_end: ''
+          date_start: '2024-05-01'
+          icon: coursera
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: 'Machine Learning Specialization'
+          url: https://www.coursera.org/specializations/machine-learning-introduction
         
         
-  #   design:
-  #     columns: '2'
+    design:
+      columns: '2'
   # - block: collection
   #   id: posts
   #   content:

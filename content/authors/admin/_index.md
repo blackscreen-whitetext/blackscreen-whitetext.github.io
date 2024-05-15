@@ -77,8 +77,8 @@ skills:
       - name: Database
         description: 'SQL'
         #percent: 100
-        icon: chart-line
-        icon_pack: fas
+        # icon: chart-line
+        # icon_pack: fas
       - name: Statistics
         description: 'R, MATLAB'
         #percent: 40
