@@ -50,35 +50,53 @@ education:
 #Skills
 For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Multi-Purpose Languages
+  - name: Machine Learning 
     items:
-      - name: Python
-        description: ''
+       - name: APIs
+         description: 'Huggingface Transformers, OpenAI'
+       - name: Libraries
+         description: 'Tensorflow, Keras, Pytorch'
+       - name: Models
+         description: 'T5,BERT,Llama,GPT'
+       - name: Platforms
+         description: 'Kaggle, Hugging Face'
+       - name: Cloud
+         description: 'AWS Sagemaker Jumpstart, Azure OpenAI, Google Colab' 
+  - name: Cloud Platforms
+    items: 
+       - name: AWS
+       - name: Azure
+       - name: Google Cloud
+  - name: Languages
+    items:
+      - name: Multi Purpose
+        description: 'Python, C++'
         #percent: 1
-        icon: python
-        icon_pack: fab
-      - name: C++
-        description: ''
-        percent: 100
+        # icon: python
+        # icon_pack: fab
+      - name: Database
+        description: 'SQL'
+        #percent: 100
         icon: chart-line
         icon_pack: fas
-  - name: Database 
-    items:
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
-  - name: Statistics
-    items:
-      - name: R
-        description: ''
-        percent: 40
-        icon: r-project
-        icon_pack: fab
-      - name: MATLAB
-        description: ''
-        icon: devicon/matlab
+      - name: Statistics
+        description: 'R, MATLAB'
+        #percent: 40
+        # icon: r-project
+        # icon_pack: fab
+      - name: Web Development
+        description: 'HTML, CSS, Javascript (Node js, React library)'
+        # percent: 40
+  - name: Dev Tools
+    items: 
+      - name: Git
+        description: 'Github, Codespaces'
+      - name: Operating Systems
+        description: 'Windows, Linux'
+      - name: Code Editors
+        description: 'Visual Studio Code, Vim'
+      
+  
   # - name: Hobbies
   #   color: '#eeac02'
   #   color_border: '#f0bf23'

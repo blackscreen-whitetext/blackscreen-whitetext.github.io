@@ -99,33 +99,55 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
+        - certificate_url: https://github.com/blackscreen-whitetext/Course-certs/blob/main/Generative_AI_With_LLMs_Andrew_NG/Balaji_LLMs.pdf
+          # date_end: ''
+          # date_start: '2021-01-25'
           description: ''
           icon: coursera
           organization: Coursera
           organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          title: Generative AI With LLMs
+          url: https://www.coursera.org/learn/generative-ai-with-llms
+        - certificate_url: https://github.com/blackscreen-whitetext/Course-certs/blob/main/Natural_Language_Processing_DeepLearning/NLP_Specialization_Balaji.pdf
+          # date_end: ''
+          # date_start: '2021-01-01'
+          # description: Formulated informed blockchain models, hypotheses, and use cases.
+          icon: coursera
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          # icon: edx
+          # organization: edX
+          # organization_url: https://www.edx.org
+          title: 'NLP Specialization'
+          url: https://www.coursera.org/specializations/natural-language-processing
+        - certificate_url: https://github.com/blackscreen-whitetext/Course-certs/blob/main/Generative_Adversarial_Networks_DeepLearning_AI/Generative_Adversarial_Networks_Specialisation_Balaji.pdf
           description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+          icon: coursera
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: 'Generative Adversarial Networks Specialization'
+          url: https://coursera.org/specializations/generative-adversarial-networks-gans
+        - certificate_url: https://github.com/blackscreen-whitetext/Course-certs/blob/main/Deep_Learning_AndrewNG/Deep_Learning_Specialisation_Balaji.pdf
+          # date_end: '2020-12-21'
+          # date_start: '2020-07-01'
+          description: ''
+          icon: coursera
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          # icon: datacamp
+          # organization: DataCamp
+          # organization_url: https://www.datacamp.com
+          title: 'Deep Learning Specialization'
+          url: https://www.coursera.org/specializations/deep-learning
+        - certificate_url: https://github.com/blackscreen-whitetext/Course-certs/blob/main/Machine_Learning_AndrewNG/Machine_Learnning_Specialization_Balaji.pdf
+          description: ''
+          icon: coursera
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: 'Machine Learning Specialization'
+          url: https://www.coursera.org/specializations/machine-learning-introduction
+        
+        
     design:
       columns: '2'
   # - block: collection
