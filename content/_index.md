@@ -235,8 +235,8 @@ sections:
     id: hello
     content:
        title: Hello
-       text: |-
-       Hello There!
+      #  text: |-
+      #  Hello There!
     design:
       columns: '1'
   - block: contact
