@@ -50,7 +50,7 @@ education:
 #Skills
 For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Languages
+  - name: Multi-Purpose Languages
     items:
       - name: Python
         description: ''
@@ -62,16 +62,21 @@ skills:
         percent: 100
         icon: chart-line
         icon_pack: fas
-      
+  - name: Database 
       - name: SQL
-        items:
-          - name: Hola
         description: ''
         percent: 40
         icon: database
-        icon: chart-line
         icon_pack: fas
-      - name: Hello
+  - name: Statistics
+      - name: R
+        description: ''
+        percent: 40
+        icon: r-project
+        icon_pack: fab
+      - name: MATLAB
+        description: ''
+        icon: devicon/matlab
   # - name: Hobbies
   #   color: '#eeac02'
   #   color_border: '#f0bf23'
