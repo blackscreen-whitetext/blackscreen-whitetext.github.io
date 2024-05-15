@@ -231,6 +231,13 @@ sections:
       title: Popular Topics
     design:
       columns: '2'
+  - block: hello
+    id: hello
+    content:
+       title: Hello
+       text: |-
+       Hello There!
+
   - block: contact
     id: contact
     content:
